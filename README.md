@@ -16,3 +16,6 @@ Currently, users can
 
 
 If you have any questions, please create an issue here: https://github.com/fangli0813/doc-PPARgene/issues
+
+## Citation: 
+[Li Fang, et al. PPARgene: A Database of Experimentally Verified and Computationally Predicted PPAR Target Genes. PPAR Research. 2016: 6042162](http://dx.doi.org/10.1155/2016/6042162)
