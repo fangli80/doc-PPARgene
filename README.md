@@ -1,5 +1,4 @@
-# doc-PPARgene
-Documentation for the PPARgene database
+# Documentation for the PPARgene database
 
 
 Peroxisome proliferator-activated receptors (PPARs) are members of nuclear receptor / ligand-activated transcription factors superfamily. PPAR subfamily consists of 3 subtypes: PPAR-α, -β/δ, and -γ. PPARs form heterodimers with a retinoid X receptor (RXR) and bind to specific PPAR-responsive elements (PPREs) to regulate target gene expression. In the absence of specific ligands, the PPAR-RXR heterodimer forms repressive complex with co-repressors and histone deacetylases. Upon ligand binding, the receptors undergo conformational changes that cause the dissociation of repressors, the recruitment of coactivators, and the activation of gene transcription. 
