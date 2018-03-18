@@ -13,3 +13,6 @@ Currently, users can
 * predict potential PPAR target genes using an established machine learning model;
 * download the datasets of experimentally verified PPAR target genes;
 * download the datasets of predicted PPAR target genes;
+
+
+If you have any questions, please create an issue here: https://github.com/fangli0813/doc-PPARgene/issues
